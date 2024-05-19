@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\CuartaTareaProgramacion1\InventarioTiendaDeCelular\InventarioTiendaDeCelular\bin\Debug\InventarioTiendaDeCelular.exe.config
+C:\Users\Usuario\Desktop\CuartaTareaProgramacion1\InventarioTiendaDeCelular\InventarioTiendaDeCelular\bin\Debug\InventarioTiendaDeCelular.exe
+C:\Users\Usuario\Desktop\CuartaTareaProgramacion1\InventarioTiendaDeCelular\InventarioTiendaDeCelular\bin\Debug\InventarioTiendaDeCelular.pdb
+C:\Users\Usuario\Desktop\CuartaTareaProgramacion1\InventarioTiendaDeCelular\InventarioTiendaDeCelular\obj\Debug\InventarioTiendaDeCelular.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CuartaTareaProgramacion1\InventarioTiendaDeCelular\InventarioTiendaDeCelular\obj\Debug\InventarioTiendaDeCelular.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CuartaTareaProgramacion1\InventarioTiendaDeCelular\InventarioTiendaDeCelular\obj\Debug\InventarioTiendaDeCelular.exe
+C:\Users\Usuario\Desktop\CuartaTareaProgramacion1\InventarioTiendaDeCelular\InventarioTiendaDeCelular\obj\Debug\InventarioTiendaDeCelular.pdb

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C236F4B-9C9C-4015-8D30-AE96C462ED7C}|InventarioTiendaDeCelular\\InventarioTiendaDeCelular.csproj|c:\\users\\usuario\\desktop\\cuartatareaprogramacion1\\inventariotiendadecelular\\inventariotiendadecelular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C236F4B-9C9C-4015-8D30-AE96C462ED7C}|InventarioTiendaDeCelular\\InventarioTiendaDeCelular.csproj|solutionrelative:inventariotiendadecelular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C236F4B-9C9C-4015-8D30-AE96C462ED7C}|InventarioTiendaDeCelular\\InventarioTiendaDeCelular.csproj|C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\inventariotiendadecelular\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C236F4B-9C9C-4015-8D30-AE96C462ED7C}|InventarioTiendaDeCelular\\InventarioTiendaDeCelular.csproj|solutionrelative:inventariotiendadecelular\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C236F4B-9C9C-4015-8D30-AE96C462ED7C}|InventarioTiendaDeCelular\\InventarioTiendaDeCelular.csproj|C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\inventariotiendadecelular\\telefonointeligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C236F4B-9C9C-4015-8D30-AE96C462ED7C}|InventarioTiendaDeCelular\\InventarioTiendaDeCelular.csproj|solutionrelative:inventariotiendadecelular\\telefonointeligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C236F4B-9C9C-4015-8D30-AE96C462ED7C}|InventarioTiendaDeCelular\\InventarioTiendaDeCelular.csproj|C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\inventariotiendadecelular\\telefonobasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C236F4B-9C9C-4015-8D30-AE96C462ED7C}|InventarioTiendaDeCelular\\InventarioTiendaDeCelular.csproj|solutionrelative:inventariotiendadecelular\\telefonobasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TelefonoBasico.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\InventarioTiendaDeCelular\\TelefonoBasico.cs",
+              "RelativeDocumentMoniker": "InventarioTiendaDeCelular\\TelefonoBasico.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\InventarioTiendaDeCelular\\TelefonoBasico.cs",
+              "RelativeToolTip": "InventarioTiendaDeCelular\\TelefonoBasico.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:06:24.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelefonoInteligente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\InventarioTiendaDeCelular\\TelefonoInteligente.cs",
+              "RelativeDocumentMoniker": "InventarioTiendaDeCelular\\TelefonoInteligente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\InventarioTiendaDeCelular\\TelefonoInteligente.cs",
+              "RelativeToolTip": "InventarioTiendaDeCelular\\TelefonoInteligente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:51:29.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Telefono.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\InventarioTiendaDeCelular\\Telefono.cs",
+              "RelativeDocumentMoniker": "InventarioTiendaDeCelular\\Telefono.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\InventarioTiendaDeCelular\\Telefono.cs",
+              "RelativeToolTip": "InventarioTiendaDeCelular\\Telefono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:43:39.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\InventarioTiendaDeCelular\\Program.cs",
+              "RelativeDocumentMoniker": "InventarioTiendaDeCelular\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CuartaTareaProgramacion1\\InventarioTiendaDeCelular\\InventarioTiendaDeCelular\\Program.cs",
+              "RelativeToolTip": "InventarioTiendaDeCelular\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:34:02.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
